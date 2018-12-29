@@ -1,0 +1,7 @@
+{
+  "name": "test-renovate-from-travis-ci",
+  "version": "1.0.0",
+  "repository": "https://github.com/newbornfrontender/test-renovate-from-travis-ci.git",
+  "author": "Infant Frontender <newbornfrontender@gmail.com>",
+  "license": "MIT"
+}
