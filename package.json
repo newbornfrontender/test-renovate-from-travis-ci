@@ -4,6 +4,10 @@
   "repository": "https://github.com/newbornfrontender/test-renovate-from-travis-ci.git",
   "author": "Infant Frontender <newbornfrontender@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "format": "prettier --write *.{json,yml} **/*.js",
+    "build": "rollup -c"
+  },
   "devDependencies": {
     "prettier": "^1.15.3",
     "rollup": "0.68.2"
