@@ -8,6 +8,4 @@ export default {
     dir: 'output',
     sourcemap: 'inline',
   },
-
-  experimentalCodeSplitting: true,
 };
