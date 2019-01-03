@@ -10,6 +10,6 @@
   },
   "devDependencies": {
     "prettier": "1.15.3",
-    "rollup": "1.0.0"
+    "rollup": "1.0.1"
   }
 }
