@@ -9,7 +9,7 @@
     "build": "rollup -c"
   },
   "devDependencies": {
-    "prettier": "1.16.4",
+    "prettier": "1.17.1",
     "rollup": "1.12.3"
   }
 }
